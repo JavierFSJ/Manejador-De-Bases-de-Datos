@@ -1,0 +1,10 @@
+C:\Users\livef\source\repos\Archivos Master\Archivos Master\bin\Debug\Archivos Master.exe.config
+C:\Users\livef\source\repos\Archivos Master\Archivos Master\bin\Debug\Archivos Master.exe
+C:\Users\livef\source\repos\Archivos Master\Archivos Master\bin\Debug\Archivos Master.pdb
+C:\Users\livef\source\repos\Archivos Master\Archivos Master\obj\Debug\Archivos Master.csprojAssemblyReference.cache
+C:\Users\livef\source\repos\Archivos Master\Archivos Master\obj\Debug\Archivos_Master.Form1.resources
+C:\Users\livef\source\repos\Archivos Master\Archivos Master\obj\Debug\Archivos_Master.Properties.Resources.resources
+C:\Users\livef\source\repos\Archivos Master\Archivos Master\obj\Debug\Archivos Master.csproj.GenerateResource.cache
+C:\Users\livef\source\repos\Archivos Master\Archivos Master\obj\Debug\Archivos Master.csproj.CoreCompileInputs.cache
+C:\Users\livef\source\repos\Archivos Master\Archivos Master\obj\Debug\Archivos Master.exe
+C:\Users\livef\source\repos\Archivos Master\Archivos Master\obj\Debug\Archivos Master.pdb
